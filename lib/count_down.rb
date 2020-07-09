@@ -4,7 +4,7 @@ celebration_number = 0
 while count > 0 do
   break if count == celebration_number 
   puts "Happy New Year"
-  end
+  
   puts "#{count}"
   count -= 1
 
